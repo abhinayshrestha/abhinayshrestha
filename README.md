@@ -14,7 +14,7 @@ I’m a software engineer and master’s student in Computer Science at USM, wit
 - **GPU & ML:** CUDA C/C++, scikit-learn, AES / HE encryption
 
 ## 📫 How to reach me
-- Email: abhinay.shrestha@usm.edu  
+- Email: abhinay.shrestha11@gmail.com
 - LinkedIn: [linkedin.com/in/abhinayshrestha](https://linkedin.com/in/abhinayshrestha)  
 
 > “Code is like humor. When you have to explain it, it’s bad.” 😄
